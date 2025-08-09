@@ -6,7 +6,7 @@ const farmData = [
     tag: 'ฟาร์มผักและสวนผลไม้',
     description: 'ฟาร์มสตรอว์เบอร์รีที่เดินทางสะดวกจากโตเกียว สามารถเก็บและทานสตรอว์เบอร์รีสดๆ ได้ไม่อั้น',
     address: '363-1 Narita, Sanmu, Chiba Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_f1.jpg'
   },
   {
     id: 'f2',
