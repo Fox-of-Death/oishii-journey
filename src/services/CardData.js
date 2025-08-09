@@ -72,7 +72,7 @@ const farmData = [
     tag: 'ฟาร์มเลี้ยงสัตว์และผลิตภัณฑ์จากนม',
     description: 'ฟาร์มโคนมขนาดใหญ่ที่มีกิจกรรมหลากหลาย เช่น การขี่ม้าและขี่จักรยาน',
     address: '799 Senbonmatsu, Nasushiobara-shi, Tochigi Prefecture',
-    image: '' 
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_d4.png?raw=true' 
   },
   {
     id: 'd5',
@@ -80,7 +80,7 @@ const farmData = [
     tag: 'ฟาร์มเลี้ยงสัตว์และผลิตภัณฑ์จากนม',
     description: 'ฟาร์มชื่อดังในนิเซโกะ มีไอศกรีมโฮมเมดและผลิตภัณฑ์นมสดจากวัวพันธุ์เจอร์ซีย์',
     address: '888-1 Soga, Niseko-cho, Abuta-gun, Hokkaido Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_d5.png?raw=true'
   },
 
   // โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น
@@ -90,7 +90,7 @@ const farmData = [
     tag: 'โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น',
     description: 'โรงงานสาเกเก่าแก่ที่เปิดให้ชมการผลิตสาเกแบบดั้งเดิม พร้อมกับการชิมสาเกหลากหลายชนิด',
     address: '247 Minamihama-cho, Fushimi-ku, Kyoto-shi, Kyoto Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_p1.jpg?raw=true'
   },
   {
     id: 'p2',
@@ -98,7 +98,7 @@ const farmData = [
     tag: 'โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น',
     description: 'โรงงานผลิตชีสในเมืองฟุราโนะ คุณสามารถชมการทำชีสและเข้าร่วมเวิร์คช็อปได้',
     address: '6-1 Kisen, Furano-shi, Hokkaido Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_p2.jpg?raw=true'
   },
   {
     id: 'p3',
@@ -106,7 +106,7 @@ const farmData = [
     tag: 'โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น',
     description: 'โรงงานผลิตคุ้กกี้ "Shiroi Koibito" ชื่อดัง ที่ถูกออกแบบให้คล้ายสวนสนุก และมีเวิร์คช็อปทำคุ้กกี้',
     address: '2-11 Miyanosawa 2-jo, Nishi-ku, Sapporo-shi, Hokkaido Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_p3.jpg?raw=true'
   },
   {
     id: 'p4',
@@ -114,7 +114,7 @@ const farmData = [
     tag: 'โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น',
     description: 'โรงงานผลิตเบียร์ที่เปิดให้เข้าชมกระบวนการผลิตและมีการชิมเบียร์ฟรีในตอนท้าย',
     address: 'โปรดตรวจสอบที่อยู่โรงงานในแต่ละเมือง (เช่น ฟุกุโอกะ ซัปโปโร)',
-    image: '' 
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_p4.jpg?raw=true' 
   },
   {
     id: 'p5',
@@ -122,7 +122,7 @@ const farmData = [
     tag: 'โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น',
     description: 'พิพิธภัณฑ์และโรงงานผลิตซอสโอโคโนมิยากิอันโด่งดังในเมืองฮิโรชิม่า คุณสามารถเรียนรู้ประวัติและกระบวนการผลิตซอสได้',
     address: '7-4-10 Shoko Center, Nishi-ku, Hiroshima-shi, Hiroshima Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_p5.jpg?raw=true'
   }
 ];
 
