@@ -6,7 +6,7 @@ const farmData = [
     tag: 'ฟาร์มผักและสวนผลไม้',
     description: 'ฟาร์มสตรอว์เบอร์รีที่เดินทางสะดวกจากโตเกียว สามารถเก็บและทานสตรอว์เบอร์รีสดๆ ได้ไม่อั้น',
     address: '363-1 Narita, Sanmu, Chiba Prefecture',
-    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_f1.jpg'
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_f1.jpg?raw=true'
   },
   {
     id: 'f2',
@@ -14,7 +14,7 @@ const farmData = [
     tag: 'ฟาร์มผักและสวนผลไม้',
     description: 'ฟาร์มเก็บผลไม้ขนาดใหญ่ใกล้โตเกียว มีผลไม้หลากหลายตามฤดูกาล เช่น สตรอว์เบอร์รีและบลูเบอร์รี',
     address: '570 Higashisayama, Sayama-shi, Saitama Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_f2.jpg?raw=true'
   },
   {
     id: 'f3',
@@ -22,7 +22,7 @@ const farmData = [
     tag: 'ฟาร์มผักและสวนผลไม้',
     description: 'ฟาร์มแอปเปิลในแหล่งปลูกที่ใหญ่ที่สุดของญี่ปุ่น ที่นี่คุณจะได้เรียนรู้และเก็บแอปเปิลได้ตามฤดูกาล',
     address: '114 Shimizu-Tomita, Hirosaki-shi, Aomori Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_f3.jpg?raw=true'
   },
   {
     id: 'f4',
@@ -30,7 +30,7 @@ const farmData = [
     tag: 'ฟาร์มผักและสวนผลไม้',
     description: 'ฟาร์มในแถบภูเขาที่มีผลไม้ให้เก็บหลากหลาย ทั้งแอปเปิล องุ่น และลูกพีช',
     address: '1836-1 Sarugakyo Onsen, Minakami-machi, Tone-gun, Gunma Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_f4.jpeg?raw=true'
   },
   {
     id: 'f5',
@@ -38,7 +38,7 @@ const farmData = [
     tag: 'ฟาร์มผักและสวนผลไม้',
     description: 'ฟาร์มสตรอว์เบอร์รีขนาดใหญ่ในภูมิภาคโทโฮคุ มีทั้งกิจกรรมเก็บสตรอว์เบอร์รีและเวิร์คช็อปทำขนม',
     address: '17-2 Aza-Takadate, Yamashita, Watari-gun, Miyagi Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_f5.jpeg?raw=true'
   },
 
   // ฟาร์มเลี้ยงสัตว์และผลิตภัณฑ์จากนม
@@ -48,7 +48,7 @@ const farmData = [
     tag: 'ฟาร์มเลี้ยงสัตว์และผลิตภัณฑ์จากนม',
     description: 'ฟาร์มโคนมเก่าแก่กว่า 100 ปี มีกิจกรรมรีดนมวัว ให้อาหารแกะ และร้านอาหารที่ใช้ผลิตภัณฑ์จากฟาร์ม',
     address: '36-1 Maruyachi, Shizukuishi, Iwate-gun, Iwate Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_d1.jpg?raw=true'
   },
   {
     id: 'd2',
@@ -56,7 +56,7 @@ const farmData = [
     tag: 'ฟาร์มเลี้ยงสัตว์และผลิตภัณฑ์จากนม',
     description: 'ฟาร์มท่องเที่ยวขนาดใหญ่ใกล้โตเกียว มีการแสดงสัตว์และกิจกรรมเก็บผลไม้ เหมาะสำหรับครอบครัว',
     address: '940 Odagiri, Futtsu-shi, Chiba Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_d2.jpg?raw=true'
   },
   {
     id: 'd3',
@@ -64,7 +64,7 @@ const farmData = [
     tag: 'ฟาร์มเลี้ยงสัตว์และผลิตภัณฑ์จากนม',
     description: 'ฟาร์มโคนมในภูเขาร็อกโกะ ใกล้เมืองโกเบ ที่คุณจะได้เรียนรู้การผลิตชีสและชมวิวสวยงาม',
     address: '1-1 Rokkosan-o-aza, Nada-ku, Kobe-shi, Hyogo Prefecture',
-    image: ''
+    image: 'https://github.com/Fox-of-Death/oishii-journey/blob/main/src/assets/img/ImgCard/image_d3.jpg?raw=true'
   },
   {
     id: 'd4',
