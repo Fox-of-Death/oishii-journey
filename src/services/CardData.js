@@ -114,7 +114,7 @@ const farmData = [
     tag: 'โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น',
     description: 'โรงงานผลิตเบียร์ที่เปิดให้เข้าชมกระบวนการผลิตและมีการชิมเบียร์ฟรีในตอนท้าย',
     address: 'โปรดตรวจสอบที่อยู่โรงงานในแต่ละเมือง (เช่น ฟุกุโอกะ ซัปโปโร)',
-    image: 'https://res.cloudinary.com/jnto/image/upload/w_1640,h_1050,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/c1/f2/c1f23ae7-1d0b-47c4-989b-409288f5f91c/203-3_1_chai-ti-_-_kopi_fmfuyd' 
+    image: '' 
   },
   {
     id: 'p5',
@@ -122,7 +122,7 @@ const farmData = [
     tag: 'โรงงานผลิตอาหารและเครื่องดื่มท้องถิ่น',
     description: 'พิพิธภัณฑ์และโรงงานผลิตซอสโอโคโนมิยากิอันโด่งดังในเมืองฮิโรชิม่า คุณสามารถเรียนรู้ประวัติและกระบวนการผลิตซอสได้',
     address: '7-4-10 Shoko Center, Nishi-ku, Hiroshima-shi, Hiroshima Prefecture',
-    image: 'https://i.ytimg.com/vi/Kb49gfhbY-s/maxresdefault.jpg'
+    image: ''
   }
 ];
 
