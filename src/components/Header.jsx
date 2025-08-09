@@ -43,7 +43,7 @@ const Headers = () => {
           <nav className={`lg:hidden absolute left-0 top-0 sm:w-2/3 md:w-1/2 bg-[#ff68a7] text-white h-full z-50 transition-all duration-300 ease-in-out ${isMenuOpen? "translate-x-0 opacity-100": "-translate-x-full opacity-0 pointer-events-none"}`}>
             <div className="p-4">
               <a href="/" className="flex items-center space-x-2 text-2xl font-bold text-white" >
-                <img src="src/assets/img/Logo.png" alt="Logo" className="h-10" />
+                <img src={Logo} alt="Logo" className="h-10" />
                 <span>Oishii Journey</span>
               </a>
               <hr className="my-4" />
